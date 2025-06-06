@@ -33,9 +33,6 @@
 * 📱 **Responsive Navigation**
   Desktop and mobile menus with glassmorphism
 
-* 👨‍💻 **Hero & About Sections**
-  Showcase who you are with smooth intro animations and buttons
-
 * 📊 **Skills Grid**
   Filterable progress bars and categories with animated width
 
@@ -46,7 +43,7 @@
   Social icons + responsive contact form with toast notifications
 
 * 🚀 **One-Click Deployment**
-  Easily host your site with Vercel and GitHub
+  Easily host the site with Vercel and GitHub
 
 ---
 
@@ -60,19 +57,13 @@
 ### Clone and Run
 
 ```bash
-git clone https://github.com/yourusername/PortfolioV1.git
+git clone https://github.com/Mini-Valeria/PortfolioV1.git
 cd PortfolioV1
 npm install
 npm run dev
 ```
 
-Your app will be available at: [http://localhost:5173](http://localhost:5173)
-
----
-
-## 🖼️ Screenshots
-
-> 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
+The app will be available at: [http://localhost:5173](http://localhost:5173)
 
 ---
 
@@ -80,10 +71,9 @@ Your app will be available at: [http://localhost:5173](http://localhost:5173)
 
 ### Deploy on Vercel
 
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com)
-3. Import your repository
-4. Click **Deploy**
+1. Go to [vercel.com](https://vercel.com)
+2. Import this repository
+3. Click **Deploy**
 
 The live website will be hosted on a custom subdomain (e.g. `https://your-name.vercel.app`)
 

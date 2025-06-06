@@ -8,6 +8,8 @@
     <img src="https://img.shields.io/badge/-Radix UI-9D4EDD?style=for-the-badge&logo=data:image/svg+xml;base64..." alt="Radix UI" />
   </div>
 
+---
+
 ## ⚙️ Tech Stack
 
 * **React** – Component-based UI development
